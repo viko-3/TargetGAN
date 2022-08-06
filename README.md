@@ -1,2 +1,2 @@
 # TargetGAN
-The code and data are being collated, which is coming soon.
+It is the code for Deep Generative Model for Drug Design from Protein Target Sequence.
