@@ -41,7 +41,7 @@ The evaluation is divided into three parts.
 
 1. The basic properties of the generating molecule, which can be obtained by [3]
 1. the protein target affinity calculation, which can be calculated by any open source for DTA or DAI model.
-1. Evaluation of the binding capacity of the protein target, which requires the installation of  molecular docking software as well as the preparation of the pdb file.
+1. Evaluation of the binding capacity of the protein target, which requires the installation of  molecular docking software (Vina or Schrödinger) as well as the preparation of the pdb file.
 
 
 ## Links
