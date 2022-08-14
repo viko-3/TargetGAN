@@ -44,6 +44,7 @@ The evaluation is divided into three parts.
 1. the protein target affinity calculation, which can be calculated by any open source for DTA or DAI model.
 1. Evaluation of the binding capacity of the protein target, which requires the installation of  molecular docking software (Vina or Schrödinger) as well as the preparation of the pdb file.
 
+This environment and dependencies of this project refer to [5] and you can also refer to it, but not exactly the same.
 
 ## Links
 [1] [Evaluating Protein Transfer Learning with TAPE](https://github.com/songlab-cal/tape)
@@ -53,4 +54,6 @@ The evaluation is divided into three parts.
 [3] [Molecular Sets (MOSES): A benchmarking platform for molecular generation models](https://github.com/molecularsets/moses)
 
 [4] [Deep-Drug-Coder](https://github.com/pcko1/Deep-Drug-Coder)
+
+[5] [Latent_GAN](https://github.com/Dierme/latent-gan)
 
