@@ -17,6 +17,7 @@ mv Deep-Drug-Coder/ddc_pub/ .
 mv molvecgen/molvecgen tmp/
 mv tmp/ molvecgen/
 ```
+1. Use shell script bash install-dependencies.sh
 
 ## How to train the model.
 
