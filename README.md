@@ -20,8 +20,10 @@ mv tmp/ molvecgen/
 ```
 
 ## Data
-The dataset is in the data document, the molecular are represented as SMILES and the proteins are provided with the corresponding UniprotID.
+The dataset is in the data document (You can also use your own data pairs.), the molecular are represented as SMILES and the proteins are provided with the corresponding UniprotID.
+
 You need to get the protein characterisation in advance using [1] and save them as npz file.
+
 
 ## How to train the model.
 
