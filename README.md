@@ -48,7 +48,7 @@ The evaluation is divided into three parts.
 
 ## 
 This environment and dependencies of this project refer to [5] and you can also refer to it, but not exactly the same.
-I admit that deploying the environment was not too easy, as it bothered me for a long time even then, but once I got over it, the subsequent steps were easy. If you have any questions, please contact me.
+If you have any questions, please contact me.
 
 ## Links
 [1] [Evaluating Protein Transfer Learning with TAPE](https://github.com/songlab-cal/tape)
