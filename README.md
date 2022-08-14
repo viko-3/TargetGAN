@@ -10,14 +10,14 @@ The encoder for the Protein sequence uses the pre-train model from [1].
 1. Clone this repo.
 1. Create conda environment from .yml file `conda env create --file env.yml`
 1. Download dependencies Deep Drug Coder and molvecgen
-1. move `Deep-Drug-Coder/ddc_pub/` and `molvecgen/molvecgen`.
+1. move `Deep-Drug-Coder/ddc_pub/` and `molvecgen/molvecgen`. Then use shell script bash install-dependencies.sh 
+
 
 ```
 mv Deep-Drug-Coder/ddc_pub/ .
 mv molvecgen/molvecgen tmp/
 mv tmp/ molvecgen/
 ```
-1. Use shell script bash install-dependencies.sh 
 
 ## How to train the model.
 
